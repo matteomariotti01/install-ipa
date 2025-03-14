@@ -2,10 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
             <array>
                 <dict>
                     <key>kind</key>
@@ -14,7 +14,7 @@
                     <string>https://lovmpfwad01-be.azurewebsites.net/download_app_file/ipad_dev</string>
                 </dict>
             </array>
-			<key>metadata</key>
+            <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
                 <string>com.techedge.storevisit</string>
@@ -23,254 +23,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Smartly</string>
+                <string>PROVA</string>
             </dict>
-			<key>architectures</key>
-			<array>
-				<string>arm64</string>
-			</array>
-			<key>buildNumber</key>
-			<string>3</string>
-			<key>certificate</key>
-			<dict>
-				<key>SHA1</key>
-				<string>22BD25418372600BF2DB56A824CBC0AB3F4A18CD</string>
-				<key>dateExpires</key>
-				<string>02/11/24</string>
-				<key>type</key>
-				<string>Cloud Managed iOS Distribution</string>
-			</dict>
-			<key>embeddedBinaries</key>
-			<array>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>22BD25418372600BF2DB56A824CBC0AB3F4A18CD</string>
-						<key>dateExpires</key>
-						<string>02/11/24</string>
-						<key>type</key>
-						<string>Cloud Managed iOS Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>AccordionSwift.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>9B8C33TTL2</string>
-						<key>name</key>
-						<string>TECHEDGE SPA</string>
-					</dict>
-					<key>versionNumber</key>
-					<string>2.0.3</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>22BD25418372600BF2DB56A824CBC0AB3F4A18CD</string>
-						<key>dateExpires</key>
-						<string>02/11/24</string>
-						<key>type</key>
-						<string>Cloud Managed iOS Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>Alamofire.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>9B8C33TTL2</string>
-						<key>name</key>
-						<string>TECHEDGE SPA</string>
-					</dict>
-					<key>versionNumber</key>
-					<string>5.5.0</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>22BD25418372600BF2DB56A824CBC0AB3F4A18CD</string>
-						<key>dateExpires</key>
-						<string>02/11/24</string>
-						<key>type</key>
-						<string>Cloud Managed iOS Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>Gifu.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>9B8C33TTL2</string>
-						<key>name</key>
-						<string>TECHEDGE SPA</string>
-					</dict>
-					<key>versionNumber</key>
-					<string>3.3.1</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>22BD25418372600BF2DB56A824CBC0AB3F4A18CD</string>
-						<key>dateExpires</key>
-						<string>02/11/24</string>
-						<key>type</key>
-						<string>Cloud Managed iOS Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>JWTDecode.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>9B8C33TTL2</string>
-						<key>name</key>
-						<string>TECHEDGE SPA</string>
-					</dict>
-					<key>versionNumber</key>
-					<string>2.6.3</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>22BD25418372600BF2DB56A824CBC0AB3F4A18CD</string>
-						<key>dateExpires</key>
-						<string>02/11/24</string>
-						<key>type</key>
-						<string>Cloud Managed iOS Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>Realm.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>9B8C33TTL2</string>
-						<key>name</key>
-						<string>TECHEDGE SPA</string>
-					</dict>
-					<key>versionNumber</key>
-					<string>10.5.2</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>22BD25418372600BF2DB56A824CBC0AB3F4A18CD</string>
-						<key>dateExpires</key>
-						<string>02/11/24</string>
-						<key>type</key>
-						<string>Cloud Managed iOS Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>RealmSwift.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>9B8C33TTL2</string>
-						<key>name</key>
-						<string>TECHEDGE SPA</string>
-					</dict>
-					<key>versionNumber</key>
-					<string>10.5.2</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>22BD25418372600BF2DB56A824CBC0AB3F4A18CD</string>
-						<key>dateExpires</key>
-						<string>02/11/24</string>
-						<key>type</key>
-						<string>Cloud Managed iOS Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>SideMenu.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>9B8C33TTL2</string>
-						<key>name</key>
-						<string>TECHEDGE SPA</string>
-					</dict>
-					<key>versionNumber</key>
-					<string>6.5.0</string>
-				</dict>
-			</array>
-			<key>entitlements</key>
-			<dict>
-				<key>application-identifier</key>
-				<string>9B8C33TTL2.com.techedge.storevisit</string>
-				<key>aps-environment</key>
-				<string>production</string>
-				<key>com.apple.developer.team-identifier</key>
-				<string>9B8C33TTL2</string>
-				<key>get-task-allow</key>
-				<false/>
-			</dict>
-			<key>name</key>
-			<string>Store Visit.app</string>
-			<key>profile</key>
-			<dict>
-				<key>UUID</key>
-				<string>8cb65c2f-1b70-4281-b073-09cd24f7e4c6</string>
-				<key>dateExpires</key>
-				<string>11/01/24</string>
-				<key>name</key>
-				<string>iOS Team Inhouse Provisioning Profile: com.techedge.storevisit</string>
-			</dict>
-			<key>team</key>
-			<dict>
-				<key>id</key>
-				<string>9B8C33TTL2</string>
-				<key>name</key>
-				<string>TECHEDGE SPA</string>
-			</dict>
-			<key>versionNumber</key>
-			<string>1.0.2</string>
-		</dict>
-	</array>
+        </dict>
+    </array>
 </dict>
 </plist>
